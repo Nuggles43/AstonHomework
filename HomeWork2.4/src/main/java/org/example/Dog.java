@@ -30,14 +30,3 @@ public class Dog extends Animal {
 }
 
 
-/*if (foodCount < 10) {
-        System.out.println("В миске мало еды, " + Cat.getName() + " прошел мимо миски.");
-        } else if (foodCount < e) {
-        System.out.println(getName() + " пытается съесть: " + e + " еды. " + "В миске нет столько еды." + getName() + " остался голодный " + fullStomach);
-        } else {
-foodCount -= e;
-            System.out.println(getName() + " съел: " + e + " еды, " + "теперь в миске: " + foodCount + " еды");
-fullStomach = true;
-        System.out.println(getName() + " сыт." + fullStomach);
-        }
-        }*/

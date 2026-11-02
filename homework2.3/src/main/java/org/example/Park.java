@@ -31,8 +31,4 @@ public  class Park {
         }
     }
 }
-/*public static void main(String[] args) {
-    Park park = new Park();
-    park.showAttractions();
-}*/
 

@@ -38,33 +38,7 @@ public class Cat extends Animal {
         } else {
             System.out.println(getName() + " хотел съесть " + hungry + " еды, но в миске недостаточно еды (" + bowl.getFoodAmount() + ")." + getName() + " остался голодным.");
         }
-
-
     }
-
-
 }
 
-
-/*public void catEat(int f) {
-
-
-
-if (foodCount < f) {
-
-System.out.println(getName() + " пытается съесть: " + f + " еды. " + "В миске нет столько еды." + getName() + " остался голодный " + fullStomach);
-
-} else {
-
-foodCount -= f;
-
-System.out.println(getName() + " съел: " + f + " еды, " + "теперь в миске: " + foodCount + " еды");
-
-fullStomach = true;
-
-System.out.println(getName() + " сыт." + fullStomach);
-
-}
-
-}*/
 
